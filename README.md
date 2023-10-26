@@ -17,8 +17,8 @@
 📫 Benimle iletişime geçmek için aşağıdaki bilgileri kullanabilirsiniz:
 
 - E-posta: [serifcanozdeniz@hotmail.com]
-- LinkedIn: [in/serifcanozdeniz]
-- GitHub: [github.com/serifcanozdeniz]
+- LinkedIn: [https://www.linkedin.com/in/serifcanozdeniz/]
+- GitHub: [https://github.com/serifcanozdeniz]
 
   ## İlgi Alanları
 
