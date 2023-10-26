@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻 Ben bir Front-End Developer'ım ve web geliştirme alanında deneyime sahibim.
+👨‍💻 Front-End Developer, React Developer, Software Developer ve web geliştirme alanında deneyime sahibim.
 
 🌐 HTML, CSS, JavaScript ve React gibi teknolojilere hakimim. Ayrıca öğrenmeye ve gelişmeye her zaman açığım.
 
