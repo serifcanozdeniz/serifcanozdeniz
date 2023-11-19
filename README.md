@@ -18,7 +18,6 @@
 
 - E-posta: [serifcanozdeniz@hotmail.com]
 - LinkedIn: [https://www.linkedin.com/in/serifcanozdeniz/]
-- GitHub: [https://github.com/serifcanozdeniz]
 
   ## İlgi Alanları
 
