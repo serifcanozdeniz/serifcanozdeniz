@@ -20,20 +20,20 @@ Email: [serifcanozdeniz@hotmail.com]
 
 LinkedIn: [https://www.linkedin.com/in/serifcanozdeniz/]
 
-  ## İlgi Alanları
+  ## Interests
 
-🌟 İlgi alanlarım şunları içerir:
+🌟 My interests include:
 
-- Web geliştirme
-- Kullanıcı arayüzü tasarımı
-- Teknoloji trendleri
-- Problem çözme
-- Eğitim
+Web development
+User interface design
+Technology trends
+Problem-solving
+Education
 
-## Teşekkürler
+## Thanks
 
-💬 GitHub profilimi ziyaret ettiğiniz için teşekkür ederim. Daha fazla bilgiye ve projelere göz atmak için GitHub repolarıma göz atabilirsiniz. İşbirliği yapmak veya iletişim kurmak isterseniz, her zaman açığım.
+💬 Thank you for visiting my GitHub profile. Feel free to explore my GitHub repositories for more information and projects. If you are interested in collaboration or reaching out, I'm always open.
 
-🚀 Teknoloji yolculuğumuzda birlikte ilerleyelim!
+🚀 Let's progress together on our technology journey!
 
 Şerif Can Özdeniz
