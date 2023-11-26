@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-👨‍💻 Front-End Developer, React Developer, Software Developer ve web geliştirme alanında deneyime sahibim.
+👨‍💻 I have experience in Front-End Development, React Development, Software Development, and web development.
 
-🌐 HTML, CSS, JavaScript ve React gibi teknolojilere hakimim. Ayrıca öğrenmeye ve gelişmeye her zaman açığım.
+🌐 I am proficient in technologies such as HTML, CSS, JavaScript, and React. Additionally, I am always open to learning and advancing my skills.
 
-🚀 Teknolojiyi yakından takip ediyor, yeni trendleri ve gelişmeleri kaçırmamaya özen gösteriyorum.
+🚀 I closely follow technology, making sure not to miss out on new trends and developments.
 
-🔍 Araştırmayı seviyorum ve yeni bilgiler öğrenmek beni motive ediyor.
+🔍 I enjoy researching, and acquiring new knowledge motivates me.
 
-👥 Ekip çalışmasına yatkınım ve birlikte çalışarak büyük işler başarabileceğimize inanıyorum.
+👥 I am collaborative and believe that working together as a team can lead to great achievements.
 
-💪 Kararlı bir yapım var ve projelerimde en iyi sonuçları elde etmek için çaba harcarım.
+💪 I have a determined nature, and I put in effort to achieve the best results in my projects.
 
 ## İletişim
 
