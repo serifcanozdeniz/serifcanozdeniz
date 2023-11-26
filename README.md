@@ -14,10 +14,11 @@
 
 ## İletişim
 
-📫 Benimle iletişime geçmek için aşağıdaki bilgileri kullanabilirsiniz:
+📫 You can contact me using the following information:
 
-- E-posta: [serifcanozdeniz@hotmail.com]
-- LinkedIn: [https://www.linkedin.com/in/serifcanozdeniz/]
+Email: [serifcanozdeniz@hotmail.com]
+
+LinkedIn: [https://www.linkedin.com/in/serifcanozdeniz/]
 
   ## İlgi Alanları
 
